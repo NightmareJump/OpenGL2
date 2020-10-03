@@ -1,0 +1,74 @@
+﻿  assignmen2.c
+c:\users\79228\source\repos\assignment2\assignment2\assignmen2.c(78): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\79228\source\repos\assignment2\assignment2\assignmen2.c(80): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\79228\source\repos\assignment2\assignment2\assignmen2.c(90): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\79228\source\repos\assignment2\assignment2\assignmen2.c(111): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\79228\source\repos\assignment2\assignment2\assignmen2.c(128): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+c:\users\79228\source\repos\assignment2\assignment2\assignmen2.c(131): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\79228\source\repos\assignment2\assignment2\assignmen2.c(133): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\79228\source\repos\assignment2\assignment2\assignmen2.c(155): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\79228\source\repos\assignment2\assignment2\assignmen2.c(157): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\79228\source\repos\assignment2\assignment2\assignmen2.c(172): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+c:\users\79228\source\repos\assignment2\assignment2\assignmen2.c(175): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\79228\source\repos\assignment2\assignment2\assignmen2.c(177): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\79228\source\repos\assignment2\assignment2\assignmen2.c(207): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+c:\users\79228\source\repos\assignment2\assignment2\assignmen2.c(210): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\79228\source\repos\assignment2\assignment2\assignmen2.c(212): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\79228\source\repos\assignment2\assignment2\assignmen2.c(225): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\79228\source\repos\assignment2\assignment2\assignmen2.c(229): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\79228\source\repos\assignment2\assignment2\assignmen2.c(244): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+c:\users\79228\source\repos\assignment2\assignment2\assignmen2.c(247): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\79228\source\repos\assignment2\assignment2\assignmen2.c(249): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\79228\source\repos\assignment2\assignment2\assignmen2.c(270): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\79228\source\repos\assignment2\assignment2\assignmen2.c(287): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+c:\users\79228\source\repos\assignment2\assignment2\assignmen2.c(290): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\79228\source\repos\assignment2\assignment2\assignmen2.c(292): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\79228\source\repos\assignment2\assignment2\assignmen2.c(314): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\79228\source\repos\assignment2\assignment2\assignmen2.c(329): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+c:\users\79228\source\repos\assignment2\assignment2\assignmen2.c(332): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\79228\source\repos\assignment2\assignment2\assignmen2.c(334): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\79228\source\repos\assignment2\assignment2\assignmen2.c(360): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+c:\users\79228\source\repos\assignment2\assignment2\assignmen2.c(363): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\79228\source\repos\assignment2\assignment2\assignmen2.c(365): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\79228\source\repos\assignment2\assignment2\assignmen2.c(371): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\79228\source\repos\assignment2\assignment2\assignmen2.c(386): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+c:\users\79228\source\repos\assignment2\assignment2\assignmen2.c(389): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\79228\source\repos\assignment2\assignment2\assignmen2.c(391): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\79228\source\repos\assignment2\assignment2\assignmen2.c(413): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\79228\source\repos\assignment2\assignment2\assignmen2.c(428): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+c:\users\79228\source\repos\assignment2\assignment2\assignmen2.c(431): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\79228\source\repos\assignment2\assignment2\assignmen2.c(433): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\79228\source\repos\assignment2\assignment2\assignmen2.c(455): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\79228\source\repos\assignment2\assignment2\assignmen2.c(470): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+c:\users\79228\source\repos\assignment2\assignment2\assignmen2.c(473): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\79228\source\repos\assignment2\assignment2\assignmen2.c(475): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\79228\source\repos\assignment2\assignment2\assignmen2.c(497): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\79228\source\repos\assignment2\assignment2\assignmen2.c(512): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+c:\users\79228\source\repos\assignment2\assignment2\assignmen2.c(515): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\79228\source\repos\assignment2\assignment2\assignmen2.c(517): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\79228\source\repos\assignment2\assignment2\assignmen2.c(538): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\79228\source\repos\assignment2\assignment2\assignmen2.c(551): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\79228\source\repos\assignment2\assignment2\assignmen2.c(577): warning C4244: 'function': conversion from 'double' to 'GLint', possible loss of data
+c:\users\79228\source\repos\assignment2\assignment2\assignmen2.c(616): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+c:\users\79228\source\repos\assignment2\assignment2\assignmen2.c(619): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\79228\source\repos\assignment2\assignment2\assignmen2.c(621): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\79228\source\repos\assignment2\assignment2\assignmen2.c(630): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\79228\source\repos\assignment2\assignment2\assignmen2.c(638): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\79228\source\repos\assignment2\assignment2\assignmen2.c(640): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\79228\source\repos\assignment2\assignment2\assignmen2.c(650): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\79228\source\repos\assignment2\assignment2\assignmen2.c(892): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+c:\users\79228\source\repos\assignment2\assignment2\assignmen2.c(893): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+c:\users\79228\source\repos\assignment2\assignment2\assignmen2.c(897): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+c:\users\79228\source\repos\assignment2\assignment2\assignmen2.c(898): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+c:\users\79228\source\repos\assignment2\assignment2\assignmen2.c(902): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+c:\users\79228\source\repos\assignment2\assignment2\assignmen2.c(903): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+c:\users\79228\source\repos\assignment2\assignment2\assignmen2.c(907): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+c:\users\79228\source\repos\assignment2\assignment2\assignmen2.c(908): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+c:\users\79228\source\repos\assignment2\assignment2\assignmen2.c(912): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+c:\users\79228\source\repos\assignment2\assignment2\assignmen2.c(913): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+c:\users\79228\source\repos\assignment2\assignment2\assignmen2.c(918): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+c:\users\79228\source\repos\assignment2\assignment2\assignmen2.c(919): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+c:\users\79228\source\repos\assignment2\assignment2\assignmen2.c(1038): warning C4113: 'void (__cdecl *)()' differs in parameter lists from 'void (__cdecl *)(void)'
+c:\users\79228\source\repos\assignment2\assignment2\assignmen2.c(1042): warning C4028: formal parameter 1 different from declaration
+c:\users\79228\source\repos\assignment2\assignment2\assignmen2.c(1044): warning C4113: 'void (__cdecl *)()' differs in parameter lists from 'void (__cdecl *)(void)'
+  Assignment2.vcxproj -> C:\Users\79228\source\repos\Assignment2\Debug\Assignment2.exe
